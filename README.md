@@ -21,17 +21,3 @@ Developed by: Aicha Manar ABBAD
 ```bash
    git clone https://github.com/AichaAbbad/osm_astar_planning.git
    ```
-
-
-## Example:
-```python
-from osm_astar_planning import OSMAStarPlanner
-
-# Instantiate OSMAStarPlanner object
-planner = Astar()
-
-# Find path between two points
-start_node = (latitude1, longitude1)
-goal_node = (latitude2, longitude2)
-path = planner.astar(start_node, goal_node)
-```
