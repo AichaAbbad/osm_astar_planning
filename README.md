@@ -33,12 +33,13 @@ Example:
 from osm_astar_planning import OSMAStarPlanner
 
 # Instantiate OSMAStarPlanner object
-planner = OSMAStarPlanner()
+planner = Astar()
 
 # Find path between two points
 start_node = (latitude1, longitude1)
 goal_node = (latitude2, longitude2)
-path = planner.find_path(start_node, goal_node)
+path = planner.astar(start_node, goal_node)
+
 
 # Visualize the path
 planner.visualize_path(path)
