@@ -3,6 +3,8 @@
 ## Overview
 This repository contains a Python implementation of the A* algorithm for path planning on OpenStreetMap (OSM) data.
 
+Developed by: Aicha Manar ABBAD
+
 ## Features
 - **A* Algorithm**: Implementation of the A* algorithm for finding the shortest path between two points on an OpenStreetMap graph.
 - **OpenStreetMap Data**: Utilizes real-world map data from OpenStreetMap for path planning.
