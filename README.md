@@ -20,3 +20,6 @@ Developed by: Aicha Manar ABBAD
 ```bash
    git clone https://github.com/AichaAbbad/osm_astar_planning.git
    ```
+
+# Final Testt on Zoe vehicle
+[![Watch the video](https://img.youtube.com/vi/Hz1RUrEnKDI/0.jpg)](https://www.youtube.com/watch?v=Hz1RUrEnKDI)
